@@ -1,0 +1,15 @@
+{
+    "domain": {
+      "display_name": "Freshdesk domain",
+      "description": "example.freshdesk.com",
+      "type": "text",
+      "required": true
+    },
+    "apiKey": {
+      "display_name": "API key",
+      "description": "'Profile Settings' -> 'Your API Key'",
+      "type": "text",
+      "required": true,
+      "secure": true
+    }
+}
